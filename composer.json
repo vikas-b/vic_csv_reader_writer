@@ -1,0 +1,9 @@
+{
+	"name":"vic/vic_csv_reader_writer",
+	"license": "MIT",
+    "type": "project",
+    "description": "CSV reader and writer",
+    "autoload": {
+        "files": ["lib/VIC/CSV/READER_WRITER/csv_reader.php", "lib/VIC/CSV/READER_WRITER/csv_writer.php"]
+    }
+}
